@@ -17,18 +17,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[LeanTaaS](https://leantaas.com/)** | AI-powered capacity management focused on OR block optimization, infusion centers, and inpatient beds. Strong predictive analytics. | Custom / Contact Sales | N/A (No free tier) |
-| **[Qventus](https://www.qventus.com/)** | AI-driven patient flow platform that automates operational decisions across ED, inpatient, and perioperative settings. | Custom / Contact Sales | N/A (No free tier) |
-| **[TeleTracking](https://www.teletracking.com/)** | Real-time patient flow and capacity management with transfer center, bed management, and command center solutions. Includes Operations IQ analytics. | Custom / Contact Sales | N/A (No free tier) |
-| **[Hospital IQ](https://www.hospitaliq.com/)** | Predictive analytics for capacity, staffing, and patient flow optimization. | Custom / Contact Sales | N/A (No free tier) |
-| **[Care Logistics](https://www.carelogistics.com/)** | End-to-end patient flow management focusing on care progression and discharge efficiency. | Custom / Contact Sales | N/A (No free tier) |
-| **[Central Logic](https://www.centrallogic.com/)** | Transfer center and capacity management platform for health systems. | Custom / Contact Sales | N/A (No free tier) |
-| **[PerfectServe](https://www.perfectserve.com/)** | Clinical communication and care coordination platform that supports flow by reducing delays in provider response. | Custom / Contact Sales | N/A (No free tier) |
-| **[GE Command Centre](https://www.gehealthcare.com/)** | GE HealthCare’s hospital command center solution for real-time visibility and predictive operations. | Custom / Contact Sales | N/A (No free tier) |
-| **[Medworxx](https://www.medworxx.com/)** | Clinical utilization and patient flow management tools (now part of larger health IT portfolios). | Custom / Contact Sales | N/A (No free tier) |
-| **[TeleTracking Operations IQ](https://www.teletracking.com/)** | Advanced analytics layer on top of TeleTracking’s real-time capacity data. | Custom / Contact Sales | N/A (No free tier) |
+| Platform | Description | Pricing | Free Tier Limit | Company Size (Est.) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[GE Command Centre](https://www.gehealthcare.com/)** | GE HealthCare’s hospital command center solution for real-time visibility and predictive operations. | Custom / Contact Sales | N/A (No free tier) | ~$30B+ Market Cap |
+| **[LeanTaaS](https://leantaas.com/)** | AI-powered capacity management focused on OR block optimization, infusion centers, and inpatient beds. Strong predictive analytics. | Custom / Contact Sales | N/A (No free tier) | $1B+ Valuation |
+| **[Hospital IQ](https://www.hospitaliq.com/)** | Predictive analytics for capacity, staffing, and patient flow optimization. | Custom / Contact Sales | N/A (No free tier) | $1B+ Valuation (via LeanTaaS) |
+| **[Care Logistics](https://www.carelogistics.com/)** | End-to-end patient flow management focusing on care progression and discharge efficiency. | Custom / Contact Sales | N/A (No free tier) | Parent >$1.5B Revenue |
+| **[Qventus](https://www.qventus.com/)** | AI-driven patient flow platform that automates operational decisions across ED, inpatient, and perioperative settings. | Custom / Contact Sales | N/A (No free tier) | ~$400M Valuation |
+| **[PerfectServe](https://www.perfectserve.com/)** | Clinical communication and care coordination platform that supports flow by reducing delays in provider response. | Custom / Contact Sales | N/A (No free tier) | ~$100M+ Revenue |
+| **[TeleTracking](https://www.teletracking.com/)** | Real-time patient flow and capacity management with transfer center, bed management, and command center solutions. Includes Operations IQ analytics. | Custom / Contact Sales | N/A (No free tier) | ~$100M+ Revenue |
+| **[TeleTracking Operations IQ](https://www.teletracking.com/)** | Advanced analytics layer on top of TeleTracking’s real-time capacity data. | Custom / Contact Sales | N/A (No free tier) | ~$100M+ Revenue |
+| **[Central Logic](https://www.centrallogic.com/)** | Transfer center and capacity management platform for health systems. | Custom / Contact Sales | N/A (No free tier) | ~$50M+ Revenue |
+| **[Medworxx](https://www.medworxx.com/)** | Clinical utilization and patient flow management tools (now part of larger health IT portfolios). | Custom / Contact Sales | N/A (No free tier) | Part of Altera Health |
 
 ## 🔓 Open-Source Software
 
