@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Patient Flow Optimization Banner" width="100%">
+</p>
+
 # Awesome-Patient-Flow-Optimization
 ## Similar Projects to Patient Flow Optimization Platforms
 
