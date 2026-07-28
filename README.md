@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Patient Flow Optimization Banner" width="100%">
 </p>
 
-# Awesome-Patient-Flow-Optimization
-## Similar Projects to Patient Flow Optimization Platforms
+# 🏥 Awesome-Patient-Flow-Optimization
+## 🔍 Similar Projects to Patient Flow Optimization Platforms
 
 **Patient Flow Optimization** platforms help hospitals manage capacity, bed availability, operating room (OR) scheduling, emergency department (ED) throughput, patient transport, discharge planning, and real-time command-center visibility. Leading commercial tools include LeanTaaS, Qventus, TeleTracking, Hospital IQ, Care Logistics, Central Logic, PerfectServe, GE Command Centre, Medworxx, and TeleTracking Operations IQ.
 
@@ -24,7 +24,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Full Hospital Information Systems with Patient Flow & Bed Management
+### 🏥 Full Hospital Information Systems with Patient Flow & Bed Management
 - **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers) — Most popular open-source EMR/practice management system. Includes scheduling, patient flow elements, and growing inpatient/hospital modules.
 - **[CARE (Open Healthcare Network)](https://github.com/coronasafe/care)** [![GitHub stars](https://img.shields.io/github/stars/coronasafe/care?style=social&color=white)](https://github.com/coronasafe/care/stargazers) — Modern open-source Hospital Information System (MIT) with bed management, queues, appointments, wards, live location tracking, and operational dashboards. Used in production across multiple Indian states. FHIR-oriented.
 - **[openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS)** [![GitHub stars](https://img.shields.io/github/stars/IMS-MAXIMS/openMAXIMS?style=social&color=white)](https://github.com/IMS-MAXIMS/openMAXIMS/stargazers) — Full open-source Patient Administration System (PAS) and EPR with graphical bed management, elective lists, RTT pathways, ED tracking, theatres, and outpatient scheduling. Designed for NHS-style workflows.
@@ -33,27 +33,27 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 - **[GNU Health](https://www.gnuhealth.org/)** — Comprehensive Hospital and Health Information System focused on public health, with hospital management, bed, and operational features.
 - **[OpenClinic GA](https://sourceforge.net/projects/open-clinic/)** — Integrated open-source hospital information management system covering administrative, clinical, lab, pharmacy, and scheduling functions. Strong in resource-limited settings.
 
-### Predictive Analytics & Research Tools
+### 📈 Predictive Analytics & Research Tools
 - **[patientflow (UCL-CORU)](https://github.com/UCL-CORU/patientflow)** [![GitHub stars](https://img.shields.io/github/stars/UCL-CORU/patientflow?style=social&color=white)](https://github.com/UCL-CORU/patientflow/stargazers) — Python package for real-time short-term prediction of hospital bed demand from current and incoming patients. Designed for bed managers; originally developed with University College London Hospitals data.
 - **[OccupyBed AI](https://github.com/f9-o/OccupyBed-Ai)** [![GitHub stars](https://img.shields.io/github/stars/f9-o/OccupyBed-Ai?style=social&color=white)](https://github.com/f9-o/OccupyBed-Ai/stargazers) — AI-powered hospital command center prototype featuring real-time bed tracking, 48-hour occupancy prediction, and interactive visual ward maps.
 
-### Simulation, Optimization & Specialized Tools
+### ⚙️ Simulation, Optimization & Specialized Tools
 - **[SCRIBE](https://github.com/nocomp/scribe)** [![GitHub stars](https://img.shields.io/github/stars/nocomp/scribe?style=social&color=white)](https://github.com/nocomp/scribe/stargazers) — Open-source hospital crisis management platform with multi-site bed occupancy grids, tension levels, and real-time capacity overview (AGPL-3.0).
 - **[EDFlowSimulator](https://github.com/VoxDroid/EDFlowSimulator)** [![GitHub stars](https://img.shields.io/github/stars/VoxDroid/EDFlowSimulator?style=social&color=white)](https://github.com/VoxDroid/EDFlowSimulator/stargazers) — Discrete-event simulation (SimPy) for Emergency Department patient flow optimization, analyzing bottlenecks, resource utilization, and waiting times.
 - **[PathSimR / patient flow simulation tools](https://www.tandfonline.com/doi/full/10.1080/17477778.2022.2081521)** — Open-source R-based tools for modelling inpatient and outpatient pathways (referenced academic open-source work).
 - Various constraint-optimization bed assignment projects using Google OR-Tools (search GitHub for “hospital bed allocation OR-Tools”).
 
-### Scheduling & Queue Management
+### 🕒 Scheduling & Queue Management
 - **[Ottehr](https://github.com/masslight/ottehr)** [![GitHub stars](https://img.shields.io/github/stars/masslight/ottehr?style=social&color=white)](https://github.com/masslight/ottehr/stargazers) — Open-source FHIR-native patient scheduling, registration, and queueing solution. Production-ready and highly customizable.
 - **[easpataal](https://github.com/gaureshpai/easpataal)** [![GitHub stars](https://img.shields.io/github/stars/gaureshpai/easpataal?style=social&color=white)](https://github.com/gaureshpai/easpataal/stargazers) — Hospital queue management system focused on reducing wait times with real-time patient tracking and role-based dashboards.
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects that address capacity, bed management, scheduling, or predictive patient flow.
 
-**License**  
+**📜 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open-source healthcare operations tooling continues to grow, especially in resource-constrained and research settings! 🏥
