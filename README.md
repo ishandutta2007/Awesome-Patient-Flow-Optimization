@@ -5,6 +5,10 @@
 # 🏥 Awesome-Patient-Flow-Optimization
 ## 🔍 Similar Projects to Patient Flow Optimization Platforms
 
+<p align="left">
+  <strong>Patient flow optimization, healthcare capacity management, hospital bed availability, emergency department throughput, operating room scheduling, and AI predictive analytics in healthcare.</strong> A comprehensive and curated list of commercial tools and open-source alternatives for health information systems, EMR, and HMIS.
+</p>
+
 **Patient Flow Optimization** platforms help hospitals manage capacity, bed availability, operating room (OR) scheduling, emergency department (ED) throughput, patient transport, discharge planning, and real-time command-center visibility. Leading commercial tools include LeanTaaS, Qventus, TeleTracking, Hospital IQ, Care Logistics, Central Logic, PerfectServe, GE Command Centre, Medworxx, and TeleTracking Operations IQ.
 
 Below is a **curated list** of notable platforms and their open-source equivalents. True end-to-end commercial-grade predictive optimization engines are rare in open source, so the emphasis is on **open-source Hospital Information Systems (HIS/HMIS)** with strong bed management and patient flow features, plus predictive analytics and simulation tools.
